@@ -1,4 +1,4 @@
 # dacademy-devops
 learn DevOps with me.
 
-> develop branch
+> develop branch, for fun
